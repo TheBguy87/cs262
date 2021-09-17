@@ -1,0 +1,30 @@
+CS 262 Lab 1 teams
+Brian Langejans
+
+1.
+a. Junior
+b. BCS with Data science minor.
+c. CS 112: A
+   CS 212: A-
+
+2. 
+a. None for either, just very basic HTML a couple years ago in high school.
+b. I have only used GitHub for downloading other projects, not uploading.
+c. I liked my first idea from the ideas.txt file, since I think its doable, and could scale differently depending how much we have
+   the chance to integrate. I'm fine with most ideas, though I prefer something that has an achievable end goal, like something that
+   has a good chance of being usable/downloadable from the app store by the end of the class.
+
+3.
+a. O: 75%
+   C: 56%
+   E: 27%
+   A: 83%
+   N: 46%
+b. Like to work with:
+   Kirt W.
+   David R.
+   Sean E
+   Ifeanyi O.
+   Braden W.
+   No one that I would particularly dislike to work with
+4. Nothing I can think of.

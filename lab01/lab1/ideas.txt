@@ -1,0 +1,19 @@
+CS 262 Lab 1
+Brian Langejans
+
+Ideas
+
+1. Ecological reverve Tour app
+After taking a tour of Calvin's ecological reserve and taking the nature walk in my biology class the other day, I realized that there
+were a lot of signs around, but not much information on what various areas were or did.  A lot of the stuff I learned on the tour was
+said by the professor but not listed anywhere else.  I thought a cool app idea would be a sort of virtual tour of that area of campus,
+where users could scan small QR codes placed along the trail and see what various plants and structures were.  Whenever I walk to
+that parking lot, I see lots of families and groups walking through, so I thought it could maybe be game-ified
+by adding a points system, where you have to find and scan as many QR codes as possible. It encourages kids to learn about the local ecosystem,
+as well as learn about what Calvin is currently working on in that area.  The project could also be expanded to include other areas of campus,
+and list information about buildings and architecture around campus.
+
+2. Phone laser tag.
+I kind of thought it would be neat to have a laser tag app that can be run just through one device, without any attachments or equipment.
+I have no clue how this would work, but might require camera usage, location tracking or maybe NFC somehow? Just thought this might be fun for
+campus activities.
