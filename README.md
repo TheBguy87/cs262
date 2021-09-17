@@ -1,2 +1,3 @@
 # cs262
-Labs
+Brian Langejans
+cs262 Labs
